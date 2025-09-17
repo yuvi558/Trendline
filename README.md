@@ -1,13 +1,33 @@
-# CSS Project
+# 🌐 CSS Webpage Project
 
-This is a simple CSS project that demonstrates modern styling techniques and responsive design using only HTML and CSS.
+This project is a simple **HTML + CSS webpage** showcasing navigation menus, text sliders, and image sections.  
+It focuses on practicing modern **CSS layout techniques** (Flexbox), **scrollable content**, and **responsive styling**.
+
+---
 
 ## 🚀 Features
-- Responsive layout using Flexbox & Grid
-- Clean typography and color scheme
-- Hover effects and smooth transitions
-- Mobile-friendly design
+- Responsive navigation bar with two sections  
+- Horizontal scrollable text slider  
+- Image gallery with smooth scrolling  
+- Clean, minimal styling with modern CSS practices  
+
+---
 
 ## 📂 Project Structure
-pr3.html
-pr3.css
+
+Project/
+|-pr3.html #Main HTML file
+│── pr3.css # CSS stylesheet
+
+## 📸 Preview
+<img width="1920" height="1080" alt="Screenshot 2025-09-17 150817" src="https://github.com/user-attachments/assets/34edffe3-5281-4865-ad43-26f74c8166ff" />
+
+---
+
+## 🛠️ How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/css-webpage-project.git
+
+
+
