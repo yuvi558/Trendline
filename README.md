@@ -9,3 +9,5 @@ This is a simple CSS project that demonstrates modern styling techniques and res
 - Mobile-friendly design
 
 ## 📂 Project Structure
+pr3.html
+pr3.css
