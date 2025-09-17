@@ -12,19 +12,20 @@ It focuses on practicing modern **CSS layout techniques** (Flexbox), **scrollabl
 - Clean, minimal styling with modern CSS practices  
 
 ---
-## 📺 Preview 📺
-
-
-https://github.com/user-attachments/assets/69e80e8e-cc6b-41f7-bb67-808e4c44ab8c
-
-
-
 ## 📂 Project Structure
 C:\Users\yuvra\Desktop\WEB\day-2\pr3.html
 
 
 
 C:\Users\yuvra\Desktop\WEB\day-2\pr3.css
+
+
+## 📺 Preview 📺
+
+
+https://github.com/user-attachments/assets/69e80e8e-cc6b-41f7-bb67-808e4c44ab8c
+
+
 
 ## 📸 Preview
 <img width="1920" height="1080" alt="Screenshot 2025-09-17 150817" src="https://github.com/user-attachments/assets/34edffe3-5281-4865-ad43-26f74c8166ff" />
