@@ -16,8 +16,8 @@ It focuses on practicing modern **CSS layout techniques** (Flexbox), **scrollabl
 ## 📂 Project Structure
 
 Project/
-|-pr3.html #Main HTML file
-│── pr3.css # CSS stylesheet
+|-C:\Users\yuvra\Desktop\WEB\day-2\pr3.html #Main HTML file
+│─C:\Users\yuvra\Desktop\WEB\day-2\pr3.css # CSS stylesheet
 
 ## 📸 Preview
 <img width="1920" height="1080" alt="Screenshot 2025-09-17 150817" src="https://github.com/user-attachments/assets/34edffe3-5281-4865-ad43-26f74c8166ff" />
