@@ -32,8 +32,11 @@ C:\Users\yuvra\Desktop\WEB\day-2\pr3.css
 
 
 🎯 Learning Objectives
+
 ->Understand Flexbox-based layouts
+
 ->Implement horizontal scrollbars with custom styling
+
 ->Practice responsive web design
 
 
