@@ -27,7 +27,13 @@ Project/
 ## 🛠️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/css-webpage-project.git
+   https://github.com/yuvi558/Trendline.git
+
+
+🎯 Learning Objectives
+->Understand Flexbox-based layouts
+->Implement horizontal scrollbars with custom styling
+->Practice responsive web design
 
 
 
